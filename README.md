@@ -1,6 +1,7 @@
 # stylattr
 
 [![GitHub](https://img.shields.io/github/license/itsabgr/stylattr)](https://github.com/itsabgr/stylattr/blob/master/LICENSE)
+[![CDN](https://img.shields.io/badge/CDN-jsdelivr-orange)](https://cdn.jsdelivr.net/gh/itsabgr/stylattr@v1/stylattr.js)
 
 _style elements by their attributes_
 
