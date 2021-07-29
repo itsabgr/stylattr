@@ -26,7 +26,7 @@ It's a utility for web designers to quickly style any HTML element by their attr
 ---
 **TODO**
 
-- [ ] A tool to compile static stylesheet rules from style attributes
+- [ ] A tool to extract static stylesheet rules from style attributes
 - [ ] Impl auto autocompletion feature for IDEs
 
 _need contributions!️_
