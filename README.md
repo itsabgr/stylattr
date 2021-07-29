@@ -1,7 +1,6 @@
 # stylattr
 
 [![GitHub](https://img.shields.io/github/license/itsabgr/stylattr)](https://github.com/itsabgr/stylattr/blob/master/LICENSE)
-[![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hm/itsabgr/stylattr)](https://cdn.jsdelivr.net/gh/itsabgr/stylattr@v1/stylattr.js)
 
 _style elements by their attributes_
 
@@ -9,7 +8,7 @@ It's a utility for web designers to quickly style any HTML element by their attr
 
 [CHECK IT WORKS](https://itsabgr.github.io/stylattr/)
 
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
