@@ -23,3 +23,10 @@ It's a utility for web designers to quickly style any HTML element by their attr
     </body>
 </html>
 ```
+---
+**TODO**
+
+- [ ] A tool to compile static stylesheet rules from style attributes
+- [ ] Add auto autocompletion feature for IDEs
+
+_need contributions!️_
