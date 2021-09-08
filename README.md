@@ -9,13 +9,13 @@ It's a utility for web designers to quickly style any HTML element by their attr
 
 [CHECK IT WORKS](https://itsabgr.github.io/stylattr/)
 
-```html
+```HTML
 <html>
     <head>
-        <!-- include below script in top of your header --> 
+        <!-- include below script at top of your header --> 
         <script type="application/javascript" src="https://cdn.jsdelivr.net/gh/itsabgr/stylattr@v1/stylattr.js"></script> 
     </head>
-    <body style="background: white;color: white">
+    <body style="background: white; color: white">
         <!-- -property="value" -->
         <h3 -color="black" >
             It Works! <br> Just include in top of your HTML and style any element like this one
